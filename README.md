@@ -77,9 +77,6 @@ See [environment.yml](https://github.com/jasonmlee/portfolio-construction-riskfo
 ### Allocation Breakdown
 ![Allocation Breakdown](images/allocation_breakdown_example.png)
 
-## Contribution
-Contributions are welcome! Feel free to fork the repository and submit pull requests. If you encounter any issues, please open a ticket on the Issues tab.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -88,6 +85,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Yahoo Finance](https://finance.yahoo.com/) for historical data.
 - Inspiration from Modern Portfolio Theory by Harry Markowitz.
 
----
-
-Happy investing! 🎯
