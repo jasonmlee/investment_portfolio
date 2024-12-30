@@ -17,9 +17,6 @@ The project is structured to demonstrate the complete process of:
 - **Efficient Frontier Visualization**: Shows optimal portfolios for different risk levels.
 - **Backtesting**: Evaluates portfolio performance against benchmarks.
 
-## Dependencies
-This project requires specific dependencies, which are listed in `environment.yml`. Follow these steps to set up the environment:
-
 ## Installation
 
 1. Clone the repository:
@@ -62,17 +59,15 @@ portfolio-construction-riskfolio/
 ```
 
 ## Dependencies
-- Python 3.8+
-- pandas
-- numpy
-- matplotlib
-- Riskfolio-Lib
-- scikit-learn
+- Python 3.11
+- pandas 2.2.2
+- numpy 2.2.1
+- matplotlib 3.9.2
+- Riskfolio-Lib 6.3
+- scikit-learn 1.5.2
+- yfinance 0.2.51
 
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-```
+See [environment.yml](https://github.com/jasonmlee/portfolio-construction-riskfolio/blob/main/environment.yml) for full list of dependencies.
 
 ## Example Results
 
