@@ -22,6 +22,9 @@ dependencies:
   - responses=0.24.1
   - yfinance==0.2.51
 
+  pip:
+    - riskfolio-lib == 6.3
+
 
 
 
