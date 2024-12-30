@@ -1,4 +1,4 @@
-name: DSCI522-39-FMJ
+name: portfolio-construction-riskfolio
 channels:
   - conda-forge
   - defaults
@@ -19,6 +19,7 @@ dependencies:
   - click=8.1.7
   - requests=2.31.0
   - responses=0.24.1
+  - yfinance==0.2.51
 
 
 
