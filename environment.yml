@@ -13,6 +13,7 @@ dependencies:
   - matplotlib==3.9.2
   - scikit-learn==1.5.2
   - pandas==2.2.2
+  - numpy==2.2.1
   - quarto==1.5.57
   - make=4.4.1
   - pytest=8.3.4
