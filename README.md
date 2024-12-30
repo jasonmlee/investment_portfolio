@@ -17,6 +17,9 @@ The project is structured to demonstrate the complete process of:
 - **Efficient Frontier Visualization**: Shows optimal portfolios for different risk levels.
 - **Backtesting**: Evaluates portfolio performance against benchmarks.
 
+## Dependencies
+This project requires specific dependencies, which are listed in `environment.yml`. Follow these steps to set up the environment:
+
 ## Installation
 
 1. Clone the repository:
@@ -25,15 +28,14 @@ The project is structured to demonstrate the complete process of:
    cd portfolio-construction-riskfolio
    ```
 
-2. Create a virtual environment (optional but recommended):
+2. Create the Conda Environment using the environment.yml file
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   conda env create -f environment.yml
    ```
 
-3. Install the required packages:
+3. Activate the Environment
    ```bash
-   pip install -r requirements.txt
+   conda activate 
    ```
 
 ## Usage
